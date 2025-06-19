@@ -2,4 +2,6 @@ module github.com/quite/go-signfile
 
 go 1.22.0
 
-require github.com/quite/smimesign v0.2.1-0.20250613124118-c2de8bb51096
+require github.com/foxboron/go-uefi v0.0.0-20250618205220-3915337a7825
+
+require golang.org/x/crypto v0.31.0 // indirect
